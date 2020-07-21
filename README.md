@@ -1,2 +1,2 @@
 # trace
-Tracer library of the book Go Programming Blueprints.
+ Code tracer to print logs. 
